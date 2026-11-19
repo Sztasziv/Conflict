@@ -1,4 +1,4 @@
 1. Ez lessz a próba szöveg amin gyakorolni founk.
-
-
-
+5. git branch -M main
+6. git remote -u origin https://github.com/Sztasziv/Conflict.git
+git push -u origin main
