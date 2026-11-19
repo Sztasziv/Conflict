@@ -1,4 +1,7 @@
 1. Ez lessz a próba szöveg amin gyakorolni founk.
+2. git init
+3. git add Text.txt
+4. git commit -m "Create Text.txt"
 5. git branch -M main
 6. git remote -u origin https://github.com/Sztasziv/Conflict.git
-git push -u origin main
+7. git push -u origin main
